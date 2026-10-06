@@ -1,0 +1,14 @@
+* Create branches
+* Make clean commits
+* Open PRs
+* Review changes
+* Resolve conflicts
+* Rebase
+* Recover from mistakes
+* Tag releases
+* Maintain a clean repository
+
+### Final Engineering Test
+
+ A teammate introduced a bad change. Fix the branch without destroying existing
+ work.
